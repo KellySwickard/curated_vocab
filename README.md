@@ -1,2 +1,4 @@
 # curated_vocab
 curated vocabulary 
+## Description
+This is going to be a curated vocabulary. There will be contributions from other thesauri and controlled vocabulary. I hope that it is useful. I envision that GitHub will be a useful place to store the repository and access the files using Git Bash. I hope to learn how to do version control from other contributors as well as setting actions to do automatic updates from other web platforms. I feel the version control aspect of Git will assist in maintain a clean updated controlled vocabulary without have to worry about using a "revert" function to look at the versions. The merge branch will be helpful when bringing together different people's edits. Unfortunately, I feel that four weeks was not long enough to begin learning git/github and then try to build a project out of it especially as one person.
